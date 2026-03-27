@@ -12,3 +12,6 @@ For command line installation, you may see this note and follow along:
 
   echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc && source ~/.bashrc
 ```
+
+### Quick Tips
+- Tag specific files with @ to make sure Claude reads the right ones.
