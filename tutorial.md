@@ -16,3 +16,4 @@ For command line installation, you may see this note and follow along:
 ### Quick Tips
 - Tag specific files with @ to make sure Claude reads the right ones.
 - Add this game changer line at the end of your prompt: "Ask me clarifying questions, one at a time, until you're 95% confident you can complete the task."
+- Update CLAUDE.md file on a daily basis!
