@@ -50,3 +50,5 @@ Understanding coding assistants comes down to a few essential points:
 - Not all language models use tools with the same skill level. 
 - Claude's strong tool use enables better security, customization, and longevity in Claude Code
 This tool-use capability is what transforms a simple text-generating model into a powerful coding assistant that can read your files, understand your codebase, and make meaningful changes to your projects.
+
+![alt text](image-2.png)
