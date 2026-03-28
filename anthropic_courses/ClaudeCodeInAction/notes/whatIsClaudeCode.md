@@ -36,3 +36,17 @@ Not all language models are equally good at using tools. The Claude series of mo
 ![alt text](image-1.png)
 This strength in tool use provides several key benefits for Claude Code:
 
+### Benefits of Strong Tool Use
+
+- Tackles harder tasks - Claude can combine different tools to handle complex work and will use tools it hasn't seen before
+- Extensible platform - You can easily add new tools to Claude Code, and Claude will adapt to use them as your workflow evolves
+- Better security - Claude Code can navigate codebases without requiring indexing, which often means not sending your entire codebase to external servers.
+
+### Key Takeaways
+Understanding coding assistants comes down to a few essential points:
+
+- Coding assistants use language models to complete different tasks
+- Language models need tools to handle most real-world programming tasks
+- Not all language models use tools with the same skill level. 
+- Claude's strong tool use enables better security, customization, and longevity in Claude Code
+This tool-use capability is what transforms a simple text-generating model into a powerful coding assistant that can read your files, understand your codebase, and make meaningful changes to your projects.
